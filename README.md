@@ -13,4 +13,4 @@
 [2]: https://wa.me/+447477344181
 [Bağlantı](https://github.com/kaymal](https://www.instagram.com/vpveinpaleq/)
 
-[Başlıklı Bağlantı](https://github.com/kaymal "GitHub Sayfam")
+[Başlıklı Bağlantı](https://github.com/kaymal](https://www.instagram.com/vpveinpaleq/ "GitHub Sayfam")
