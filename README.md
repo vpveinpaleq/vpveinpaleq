@@ -6,8 +6,8 @@
 - ⚡ Currently working on Eternity Bot with Eternity-Boum. 
 
 # 📫 How to reach me:
-[Referans 1][1]
-[Referans 2][2]
+[Instagram][1]
+[Whatsapp][2]
 
 [1]: https://www.instagram.com/vpveinpaleq/
-[2]: https://github.com/
+[2]: https://wa.me/+447477344181
