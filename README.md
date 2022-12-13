@@ -108,4 +108,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="" target="_blank">Github Profilinator</a></div>
+<div align="center">write me on whatsapp <a href="wa.me/+447477344181" target="_blank">Github Profilinator</a></div>
