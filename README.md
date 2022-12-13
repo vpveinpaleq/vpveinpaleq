@@ -108,4 +108,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Write Me On Whatsapp <a href="wa.me/+447477344181" target="_blank">Whatsapp</a></div>
+<div align="center">Write Me On Whatsapp <a href="https://wa.me/+447477344181" target="_blank">Whatsapp</a></div>
