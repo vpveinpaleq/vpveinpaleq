@@ -11,6 +11,5 @@
 
 [1]: https://www.instagram.com/vpveinpaleq/
 [2]: https://wa.me/+447477344181
-[Bağlantı](https://www.instagram.com/vpveinpaleq/)
+## If you have any queries or suggestions then you can contact me i will be happy to respond.
 
-[Başlıklı Bağlantı](https://github.com/kaymal](https://www.instagram.com/vpveinpaleq/ "GitHub Sayfam")
