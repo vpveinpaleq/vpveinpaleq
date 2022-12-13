@@ -8,7 +8,7 @@
 # 📫 How to reach me:
 [Instagram][1] ![ ][resim]
 
-[resim]: ./assets/image_unsplash.jpg](https://www.canva.com/design/DAFUpI4ITMs/giefznglayGSUOTa7u9TNw/view?utm_content=DAFUpI4ITMs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "Resim Başlığı"
+[resim]: ./[assets/image_unsplash.jpg](https://www.canva.com/design/DAFUpI4ITMs/giefznglayGSUOTa7u9TNw/view?utm_content=DAFUpI4ITMs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://pin.it/1PfxK69) "Resim Başlığı"
 [Whatsapp][2]
 
 [1]: https://www.instagram.com/vpveinpaleq/
