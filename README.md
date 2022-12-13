@@ -6,9 +6,7 @@
 - ⚡ Currently working on Eternity Bot with Eternity-Boum. 
 
 # 📫 How to reach me:
-[![ ][resim]
-
-[resim]: ./[assets/image_unsplash.jpg](https://www.canva.com/design/DAFUpI4ITMs/giefznglayGSUOTa7u9TNw/view?utm_content=DAFUpI4ITMs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://pin.it/1PfxK69) "Resim Başlığı"][1] 
+[Instagaram][1] 
 [Whatsapp][2]
 
 [1]: https://www.instagram.com/vpveinpaleq/
