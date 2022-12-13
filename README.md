@@ -9,5 +9,5 @@
 [Referans 1][1]
 [Referans 2][2]
 
-[1]: (https://www.instagram.com/vpveinpaleq/}
+[1]: https://www.instagram.com/vpveinpaleq/
 [2]: https://github.com/
