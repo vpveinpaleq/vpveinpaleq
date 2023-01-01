@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Onur, a full-time full-stack freelance developer 👨‍💻 working remotely since 2011 🚀</div>  
+### <div align="center">I'm Onur, a full-time full-stack freelance developer 👨‍💻 since 2011 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github ](https://github.com/vpveinpaleq)  
